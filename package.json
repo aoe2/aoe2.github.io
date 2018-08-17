@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/aoe2/aoe2.github.io#readme",
   "dependencies": {
-    "rataplan.aoe2.constants": "0.0.1"
+    "rataplan.aoe2.constants": "0.0.2"
   }
 }
