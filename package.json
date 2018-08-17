@@ -1,0 +1,25 @@
+{
+  "name": "rataplan.aoe2",
+  "version": "0.0.1",
+  "description": "Utilities for AOE2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aoe2/aoe2.github.io.git"
+  },
+  "keywords": [
+    "aoe2"
+  ],
+  "author": "rataplan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aoe2/aoe2.github.io/issues"
+  },
+  "homepage": "https://github.com/aoe2/aoe2.github.io#readme",
+  "dependencies": {
+    "rataplan.aoe2.constants": "0.0.1"
+  }
+}
